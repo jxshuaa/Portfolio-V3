@@ -6,25 +6,23 @@ export default function Layout({
   children,
   title = '',
                                }) {
-  title = `${title && `${title} —`} Robert S.`
+  title = `${title && `${title} —`} Joshua L.`
   return (
       <>
           <Head>
               <meta charSet="UTF-8"/>
               <title>{title}</title>
-              <meta name="description" content="A developer and tech enthusiast from the Netherlands." />
-              <meta name="keywords" content="HTML,CSS,JavaScript,Python,SQL,MySQL,PostgreSQL,MongoDB,Redis,Flask,Falcon,Tailwind,TailwindCSS,Bootstrap" />
-              <meta name="author" content="Robert Stokreef" />
+              <meta name="description" content="A junior developer and tech boy from Germany." />
+              <meta name="keywords" content="HTML, CSS, JavaScript, Python, Flask, React, Next" />
+              <meta name="author" content="Joshua L." />
               <link rel="icon" href="/favicon.ico" />
-              <meta property="og:title" content={`Robert S.${title && ` - ${title}`}`} />
-              <meta property="og:description" content="A developer and tech enthusiast from the Netherlands." />
-              <meta property="og:image" content="https://robert-s.dev/logo.webp" />
+              <meta property="og:title" content={`Joshua L.${title && ` - ${title}`}`} />
+              <meta property="og:description" content="A developer and tech boy from Germany." />
               <meta name="theme-color" content="#F43F5E" />
               <meta name="twitter:card" content="summary_large_image" />
-              <meta name="twitter:site" content="@ThatGuy5275" />
-              <meta name="twitter:title" content={`Robert S.${title && ` - ${title}`}`} />
-              <meta name="twitter:description" content="A developer and tech enthusiast from the Netherlands."/>
-              <meta name="twitter:image" content="https://robert-s.dev/logo.webp"/>
+              <meta name="twitter:site" content="@jxshyyhere" />
+              <meta name="twitter:title" content={`Joshua L.${title && ` - ${title}`}`} />
+              <meta name="twitter:description" content="A developer and tech boy from Germany."/>
           </Head>
           <div className="flex flex-col min-h-screen">
               <Navbar />
