@@ -23,7 +23,7 @@ export default function Footer() {
                 <p className="text-xl">
                     © 2024 
                     <Link href="/">
-                        <a>Joshua L.</a>
+                        <a> Joshua L.</a>
                     </Link>
                 </p>
                 <span className="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start gap-x-4 md:gap-2.5">
