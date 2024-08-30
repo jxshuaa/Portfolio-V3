@@ -19,7 +19,7 @@ export default function Work() {
                                     <div className="flex-grow space-y-2">
                                         <h1 className="text-3xl font-bold">Synth</h1>
                                         <p className="text-gray-400 py- text-justify">
-                                            Synth is a discord music bot that I am currently still upkeeping to this day. I am planning to make it open source soon!
+                                        Synth is a Discord music bot that I continue to maintain and improve. I'm excited to announce plans to make it open-source soon, so others can contribute and benefit from its features as well.
                                         </p>
                                         <div className="flex space-x-2">
                                             <a className="rounded-full" href="#" target="_blank">
@@ -41,7 +41,7 @@ export default function Work() {
                                     <div className="flex-grow space-y-2">
                                         <h1 className="text-3xl font-bold">GlassHost</h1>
                                         <p className="text-gray-400 py- text-justify">
-                                            Not a project essentially, I work at GlassHost i'd definetly recommend to use them for hosting services.
+                                        I’m currently part of the team at GlassHost, where we focus on delivering top-notch hosting solutions that cater to a wide range of needs. GlassHost offers reliable, high-performance hosting services, and I highly recommend them if you’re looking for a provider that truly supports your online success.
                                         </p>
                                         <div className="flex space-x-2">
                                             <a className="rounded-full" href="https://github.com/GlassHost" target="_blank">
