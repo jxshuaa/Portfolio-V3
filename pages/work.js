@@ -15,18 +15,6 @@ export default function Work() {
                                 <p className="text-gray-200 text-lg font-medium px-4">
                                     Featured & recent projects
                                 </p>
-                            </div>
-                            <div className="relative w-11/12 mx-auto overflow-auto">
-                                <div className="absolute h-full w-full p-20 z-20">
-                                    <div className="flex items-center justify-center h-full w-full p-4">
-                                        <div className="text-center space-y-1">
-                                            <h1 className="md:text-6xl text-3xl font-bold text-center">
-                                                Synth
-                                            </h1>
-                                            <p className="text-gray-200 italic text-lg">Discord Bot</p>
-                                        </div>
-                                    </div>
-                                </div>
                                 <div className="w-full grid gap-20 grid-cols-1 md:grid-cols-2 blur md:p-16 p-4">
                                     <div className="flex-grow space-y-2">
                                         <h1 className="text-3xl font-bold">Lorem Ipsum</h1>
