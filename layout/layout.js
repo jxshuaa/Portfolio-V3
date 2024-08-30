@@ -21,7 +21,7 @@ export default function Layout({
               <meta name="theme-color" content="#F43F5E" />
               <meta name="twitter:card" content="summary_large_image" />
               <meta name="twitter:site" content="@jxshyyhere" />
-              <meta name="twitter:title" content={`Joshua L.${title && ` - ${title}`}`} />
+              <meta name="twitter:title" content={`Joshua L.`} />
               <meta name="twitter:description" content="A developer and tech boy from Germany."/>
           </Head>
           <div className="flex flex-col min-h-screen">
