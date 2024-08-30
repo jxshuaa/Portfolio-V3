@@ -16,7 +16,7 @@ export default function Layout({
               <meta name="keywords" content="HTML, CSS, JavaScript, Python, Flask, React, Next" />
               <meta name="author" content="Joshua L." />
               <link rel="icon" href="/favicon.ico" />
-              <meta property="og:title" content={`Joshua L.${title && ` - ${title}`}`} />
+              <meta property="og:title" content={`Joshua L.`} />
               <meta property="og:description" content="A developer and tech boy from Germany." />
               <meta name="theme-color" content="#F43F5E" />
               <meta name="twitter:card" content="summary_large_image" />
