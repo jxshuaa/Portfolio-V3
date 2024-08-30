@@ -7,7 +7,6 @@ export default function Work() {
             <div className="flex flex-grow items-center">
                 <div className="w-full">
                     <div className="container flex mx-auto justify-center">
-                        <motion.div initial={{ opacity: 0 }} animate={{ opacity: [0, 1] }} transition={{ duration: 0.5 }}>
                             <div className="text-center">
                                 <h1 className="md:text-6xl text-3xl font-bold">
                                     My <span className="text-rose-500">work</span>
@@ -62,7 +61,6 @@ export default function Work() {
                                     </div>
                                 </div>
                             </div>
-                        </motion.div>
                     </div>
                 </div>
             </div>
