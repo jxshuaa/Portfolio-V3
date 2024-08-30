@@ -32,9 +32,7 @@ export default function About() {
                                             I can use the following frameworks and libraries:
                                         </p>
                                         <div className="grid grid-cols-2 grid-rows-3 md:grid-cols-3 md:grid-rows-2 lg:grid-rows-1 lg:grid-cols-4 xl:grid-cols-5 2xl:grid-cols-6">
-                                            <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind CSS-18181b?style=for-the-badge&logo=tailwindcss&logoColor=F43F5E" />
                                             <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-18181b?style=for-the-badge&logo=bootstrap&logoColor=F43F5E" />
-                                            <img alt="UIkit" src="https://img.shields.io/badge/-UIkit-18181b?style=for-the-badge&logo=uikit&logoColor=F43F5E" />
                                             <img alt="Flask" src="https://img.shields.io/badge/-Flask-18181b?style=for-the-badge&logo=flask&logoColor=F43F5E" />
                                             <img alt="React" src="https://img.shields.io/badge/-React-18181b?style=for-the-badge&logo=react&logoColor=F43F5E" />
                                             <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-18181b?style=for-the-badge&logo=next.js&logoColor=F43F5E" />
