@@ -1,6 +1,5 @@
 import {useState} from 'react';
 import Link from "next/link";
-import RomanNumerals from '../lib/romanNumerals';
 import { siGithub, siDiscord, siTwitter, siInstagram } from 'simple-icons/icons';
 import { Linkedin, Mail } from 'lucide-react';
 
@@ -22,8 +21,7 @@ export default function Footer() {
         <>
             <footer className="container px-5 py-8 mx-auto flex items-center sm:flex-row flex-col">
                 <p className="text-xl">
-                    © {RomanNumerals(new Date().getFullYear())}
-                    {" "}
+                    © 2024
                     <Link href="/">
                         <a>Joshua L.</a>
                     </Link>
