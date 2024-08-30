@@ -21,7 +21,7 @@ export default function Footer() {
         <>
             <footer className="container px-5 py-8 mx-auto flex items-center sm:flex-row flex-col">
                 <p className="text-xl">
-                    © 2024
+                    © 2024 
                     <Link href="/">
                         <a>Joshua L.</a>
                     </Link>
